@@ -1,5 +1,5 @@
 {
-    "Date": "2012-07-08T11:30:00+03:00",
+    "Date": "2012-07-07T11:30:00+03:00",
     "PreviousDate": "2024-07-23T11:30:00+03:00",
     "PreviousURL": "\/\/www.cbr-xml-daily.ru\/archive\/2024\/07\/23\/daily_json.js",
     "Timestamp": "2024-07-24T17:00:00+03:00",
