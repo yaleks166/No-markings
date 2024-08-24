@@ -12,7 +12,7 @@
             <div class="main-menu two">
                 <menu><!--Y2.1 M16.00-->
                     <li><a href="#yakor">Главная</a></li><!--Y2.2 M12.00-->
-                    <li><a href="cap.html" target="blank">Новая стр.</a></li><!--Y2.2 M12.00-->
+                    <li><a href="cap.html" target="blank">Хитрый API</a></li><!--Y2.2 M12.00-->
                     <li><a href="1.js" target="blank">Мой Json</a></li>
                     <li><a href="https://www.cbr-xml-daily.ru/daily_json.js" target="blank">Json ЦБ РФ</a></li><!--Y2.2 M2.00-->
                 </menu>
